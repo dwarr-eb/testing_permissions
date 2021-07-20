@@ -5,4 +5,8 @@ Testing Github commit, push, and merge permissions
 
 [2021-07-20 8:33 UTC-5]
 Updates made by dwarr-eb:
-* Created `new-file-o1.txt`
+* Created `new-file-01.txt`
+
+[2021-07-20 8:40 UTC-5]
+Updates made by DevWarr:
+* Created `new-file-02.txt`
